@@ -12,5 +12,5 @@ File: derivation_graphs.json stores the manually parsed derivation graphs for 10
 - "Article ID" is the identifying ID for each article.
 - "Equation ID" is the list of unique IDs for each equation in the article.
 - "Adjacency List" is the dictionary that stores the adjacency list for each equation.
-- "Equation Number" is the identifying reference number assigned in the article for each equation.
-- "Most Important Equation" is the most important equation that was identified for each article and part of follow up work.
+- "Equation Number" is the identifying reference number assigned for each equation in the article.
+- "Most Important Equation" is the most important equation that was identified for each article and is part of follow up work.
