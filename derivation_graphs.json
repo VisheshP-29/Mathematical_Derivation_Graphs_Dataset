@@ -6,8 +6,8 @@
             "Modification Log": {
             },
             "Notes": {
-                "(1)": "Note that due to current assumptions. ensure that any inputted article graphs are directed and acyclic (DAG)",
-                "(2)": "107 total articles"
+                "(1)": "Note that due to current assumptions, ensure that any inputted article graphs are directed and acyclic graphs (DAGs)",
+                "(2)": "Total article count: 107"
             }
         }
     ],
